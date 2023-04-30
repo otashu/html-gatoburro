@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+  }
+  #gato{
+    border: 10px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+  }
+  .text{
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+  }
+  h1{
+    font-size: 3rem;
+  }
+  h3{
+    font-size: 17pt;
+  }
